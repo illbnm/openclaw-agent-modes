@@ -1,8 +1,11 @@
 # OpenClaw Agent Modes
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GitHub stars](https://img.shields.io/github/stars/illbnm/openclaw-agent-modes.svg)](https://github.com/illbnm/openclaw-agent-modes/stargazers)
+
 > How to lead AI agents effectively — A framework from Manus backend lead
 
-English | [中文](README_CN.md)
+English | [中文](README_CN.md) | [Overview](OVERVIEW.md) | [Self-Check](SELF_CHECK.md)
 
 ## The Three Modes
 
