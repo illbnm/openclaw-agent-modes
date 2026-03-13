@@ -89,3 +89,16 @@ Next time you fire up OpenClaw (or any AI agent), ask yourself:
 ---
 
 ⭐ If this framework helped you, consider starring this repo!
+
+---
+
+## Support This Project
+
+If this framework helped you understand your AI usage better:
+
+- ⭐ Star this repo
+- 🔄 Share with your team
+- 💬 Join the discussion in Issues
+
+**Want to support financially?** Create a GitHub Sponsor or Ko-fi and we'll add it here!
+
