@@ -5,7 +5,7 @@
 
 > How to lead AI agents effectively — A framework from Manus backend lead
 
-English | [中文](README_CN.md) | [Overview](OVERVIEW.md) | [Self-Check](SELF_CHECK.md)
+English | [中文](README_CN.md) | [Overview](OVERVIEW.md) | [Case Studies](CASE_STUDIES.md) | [Self-Check](SELF_CHECK.md)
 
 ## The Three Modes
 
